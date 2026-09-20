@@ -48,7 +48,7 @@ contributors:
   # Add your entry following the existing format
 - name: "Kunto"
   github: "kmegantara"
-  role: "Student"
+  role: "Contributor"
   batch: "21" # Your batch number
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
